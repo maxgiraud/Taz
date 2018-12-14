@@ -1,0 +1,2 @@
+
+Mettre le chemin du dossier "autoencoder" dans gui/taz_aec_gui/mainwindow.h et dans data/gui/pathfinder.py 

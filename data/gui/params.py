@@ -1,0 +1,11 @@
+training = True
+loading = False
+saving = False
+load_foldername = ""
+save_foldername = "/home/max/projets/python/tensorflow/autoencoder/save/fashion_1"
+num_steps = 1000
+batch_size = 10
+display_steps = 10
+test_dataset_size = 10
+learning_rate = 0.001
+kp = 0.65

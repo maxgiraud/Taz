@@ -1,0 +1,6 @@
+load_foldername = file_1
+save_foldername = 
+num_epochs = 
+batch_size = 
+display_steps = 
+test_dataset_size = testing batch size

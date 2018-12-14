@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/max/projets/python/tensorflow/autoencoder/save/fashion_1/fashion_1.wb"
+all_model_checkpoint_paths: "/home/max/projets/python/tensorflow/autoencoder/save/fashion_1/fashion_1.wb"
