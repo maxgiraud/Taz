@@ -1,2 +1,6 @@
 
+(GUI)
 Mettre le chemin du dossier "autoencoder" dans gui/taz_aec_gui/mainwindow.h et dans data/gui/pathfinder.py 
+
+(Light)
+Simply execute the "autoenc.py" file with python (tested with v3.6)
